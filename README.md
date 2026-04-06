@@ -92,8 +92,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Prit2020/Zorvyn-Frontend-Assignment.git
+cd Zorvyn-Frontend-Assignment
 ```
 
 ### 2. Install dependencies
